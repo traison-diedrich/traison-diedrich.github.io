@@ -2597,7 +2597,7 @@ input, select, textarea {
 		background-position: bottom right,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								100%;
-		color: rgba(255, 255, 255, 0.5);
+		color: rgba(255, 255, 255, 0l5);
 		height: 100%;
 		left: 0;
 		padding: 8em 4em;
